@@ -2769,6 +2769,12 @@ public final class Settings {
          *
          * @hide
          */
+        /**
+         *  Enable statusbar double tap gesture on to put device to sleep
+         * @hide
+         */
+        public static final String DOUBLE_TAP_SLEEP_GESTURE = "double_tap_sleep_gesture";
+         /**
         public static final String QUICK_SETTINGS_TILES = "quick_settings_tiles";
 
         /**
